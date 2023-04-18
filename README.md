@@ -6,3 +6,8 @@
 <img src="https://github.com/1shubhangi1/spotify-clone/blob/main/Screenshot%20spotify.png">
 </p>
 
+<br>
+<p align="center">
+<img src="[https://github.com/1shubhangi1/spotify-clone/blob/main/Screenshot%20spotify.png](https://github.com/1shubhangi1/spotify-clone/blob/main/Screenshot%20spotify2.png)">
+</p>
+
