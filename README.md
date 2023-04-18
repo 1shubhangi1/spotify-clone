@@ -1,5 +1,5 @@
 # spotify-clone
-## Here is the gkance of my project
+## Here is the glance of my project
 
 <br>
 <p align="center">
